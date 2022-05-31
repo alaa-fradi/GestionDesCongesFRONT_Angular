@@ -1,4 +1,4 @@
-# Web application for leave management using Angular
+# Web application for leave management : ( Front using Angular ) 
 
 ## creenshots
 Use Case Diagram
