@@ -1,13 +1,10 @@
-# Angular 11 JWT Authentication example
+# Web application for leave management using Angular
 
-## Flow for User Registration and User Login
-For JWT – Token based Authentication with Web API, we’re gonna call 2 endpoints:
-- POST `api/auth/signup` for User Registration
-- POST `api/auth/signin` for User Login
+## creenshots
+Use Case Diagram
 
-You can take a look at following flow to have an overview of Requests and Responses that Angular 10 Client will make or receive.
 
-![angular-11-jwt-authentication-flow](angular-11-jwt-authentication-flow.png)
+![Capture d’écran 2022-05-31 034147](Capture d’écran 2022-05-31 034147.png)
 
 ## Angular JWT App Diagram with Router and HttpInterceptor
 ![angular-11-jwt-authentication-overview](angular-11-jwt-authentication-overview.png)
