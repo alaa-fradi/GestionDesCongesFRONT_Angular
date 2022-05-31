@@ -8,14 +8,14 @@ Use Case Diagram
 
 The manager can add employees, departments, department heads and assign each of them to another. 
 ![07-manager-emp-add](07.png)
-![06-Manager-emp](06-Manager-emp.jpg)
+![06-Manager-emp](06.png)
 
 The employee will log in using a username and email address that was sent to him in the mail. 
 He can check and update certain information in his profile if necessary.
-![01-chef-dep-profile](01-chef-dep-profile.png)
+![01-chef-dep-profile](01.png)
 
 He can request leaves and check the history and status of his current requests.
-![08-emp-demande-conge-ADD](08-emp-demande-conge-ADD.png)
+![08-emp-demande-conge-ADD](08.png)
 
 The employees will wait until
 
