@@ -4,7 +4,7 @@
 Use Case Diagram
 
 
-![Capture d’écran 2022-05-31 034147](Capture d’écran 2022-05-31 034147.png)
+![Use Case Diagram](Use Case Diagram.png)
 
 ## Angular JWT App Diagram with Router and HttpInterceptor
 ![angular-11-jwt-authentication-overview](angular-11-jwt-authentication-overview.png)
