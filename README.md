@@ -4,7 +4,7 @@
 Use Case Diagram
 
 
-![Use Case Diagram](Use Case Diagram.png)
+![Use-Case-Diagram](Use-Case-Diagram.png)
 
 ## Angular JWT App Diagram with Router and HttpInterceptor
 ![angular-11-jwt-authentication-overview](angular-11-jwt-authentication-overview.png)
