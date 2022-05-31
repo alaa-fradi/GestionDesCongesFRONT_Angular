@@ -17,6 +17,8 @@ He can check and update certain information in his profile if necessary.
 He can request leaves and check the history and status of his current requests.
 ![08-emp-demande-conge-ADD](08-emp-demande-conge-ADD.png)
 
+The employees will wait until
+
 
 > [Angular + Spring Boot: JWT Authentication & Authorization example](https://bezkoder.com/angular-11-spring-boot-jwt-auth/)
 
