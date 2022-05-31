@@ -6,13 +6,17 @@ Use Case Diagram
 
 ![Use-Case-Diagram](Use-Case-Diagram.png)
 
-## Angular JWT App Diagram with Router and HttpInterceptor
-![angular-11-jwt-authentication-overview](angular-11-jwt-authentication-overview.png)
+The manager can add employees, departments, department heads and assign each of them to another. 
+![07-manager-emp-add](07-manager-emp-add.png)
+![06-Manager-emp](06-Manager-emp.png)
 
-For more detail, please visit:
-> [Angular 11 JWT Authentication & Authorization with Web API](https://bezkoder.com/angular-11-jwt-auth/)
+The employee will log in using a username and email address that was sent to him in the mail. 
+He can check and update certain information in his profile if necessary.
+![01-chef-dep-profile](01-chef-dep-profile.png)
 
-## With Spring Boot back-end
+He can request leaves and check the history and status of his current requests.
+![08-emp-demande-conge-ADD](08-emp-demande-conge-ADD.png)
+
 
 > [Angular + Spring Boot: JWT Authentication & Authorization example](https://bezkoder.com/angular-11-spring-boot-jwt-auth/)
 
